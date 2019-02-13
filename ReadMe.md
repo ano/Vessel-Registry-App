@@ -10,3 +10,5 @@ This is a demonstration of the vessel registry app for the Forum Fisheries Agenc
 **Step 2:** Pull in this repository into the Adobe Phonegap. 
 
 ![alt text](https://i.imgur.com/Yjr5xJp.png "Adobe Phonegap Web Interface")
+
+**Step 3:** Download 
