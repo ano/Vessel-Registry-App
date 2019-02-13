@@ -41,4 +41,4 @@
         <platform name="ios"></platform>
         <platform name="android"></platform>
         <platform name="winphone"></platform>
-        <icon src="icon.png" /> </widget>
+    </widget>
